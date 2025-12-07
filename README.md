@@ -106,13 +106,13 @@ Código: No disponible públicamente.
 <a href="https://github.com/gh-de-carlos/galeria-imagenes-fullstack25-m2ae6solo">
 <img src="./github_1.png">
 </a>
-<span>Galería de imágenes integrando plugin jQuery</span>
+<!-- <span>Galería de imágenes integrando plugin jQuery</span> -->
 </td>
 <td>
 <a href="https://github.com/gh-de-carlos/portafolio.evaluacion.m2">
 <img src="./github_2.png">
 </a>
-<span>Primer intento de portafolio. Aún en progreso.</span>
+<!-- <span>Primer intento de portafolio. Aún en progreso.</span> -->
 </td>
 <td>
 <a href="https://github.com/gh-de-carlos/securenet.evaluacion.m2">
