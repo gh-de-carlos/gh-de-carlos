@@ -38,61 +38,67 @@ Me encanta conversar de cualquier tema, así que incluso si sólo quieres saluda
 <!--[![Udemy](https://img.shields.io/badge/Udemy-YOUR_NAME-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/YOUR_COURSES)-->
 <!--[![Web](https://img.shields.io/badge/Web-YOUR_WEBSITE.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://YOUR_WEBSITE.com)-->
 
-# [YOUR SPECIAL SECTION TITLE - Optional section for courses, services, or products]
+<!--# Algunos proyectos en los que he trabajado-->
 
-![https://picsum.photos/800/300](https://picsum.photos/800/300)
+<!--![Tecprosalud](./tecprosalud.png)-->
 
-#### [DESCRIPTION OF YOUR OFFERING - If you have courses, products, or services, describe them here. Otherwise, you can remove this section]
 
-> [ADDITIONAL DETAILS OR CALL TO ACTION]
->
-> [PROMOTIONAL INFORMATION OR SPECIAL OFFERS]
+<!--#### [DESCRIPTION OF YOUR OFFERING - If you have courses, products, or services, describe them here. Otherwise, you can remove this section]-->
+
+<!-- [ADDITIONAL DETAILS OR CALL TO ACTION] [PROMOTIONAL INFORMATION OR SPECIAL OFFERS]-->
 
 # Algunos proyectos destacados
 
-## [PROJECT 1 TITLE - e.g., "Python desde cero: Curso gratis"]
+## Tecprosalud - Plataforma SIGEM
 
-<a href="YOUR_PROJECT_1_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+<a href="https://tecprosalud.cl"><img src="./tecprosalud.png" style="max-height: 60%; width:60%;"/></a>
 
-[![Project 1](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_1?label=YOUR_PROJECT_1_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_1)
+Tecprosalud es una empresa de salud Chile dedicada a entregar servicios médicos de calidad, ayudando a mejorar las barreras médico-paciente. He tenido el privilegio de colaborar con ellos en el desarrollo y mantenimiento de su plataforma interna **"SIGEM"**, implementando nuevas features y resolviendo tickets de mantenimiento durante el año 2023 con tecnologías como Java + Springboot, VueJs y PostgreSQL.
 
-## [PROJECT 2 TITLE - e.g., "JavaScript desde cero: Curso gratis"]
+Referencia: [Angel Duarte](https://www.linkedin.com/in/angelduartec/)
 
-<a href="YOUR_PROJECT_2_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+Código: No disponible públicamente.
 
-[![Project 2](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_2?label=YOUR_PROJECT_2_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_2)
+## Moodle LMS para Capacitaciones PyA
 
-## [PROJECT 3 TITLE - e.g., "Full Stack App"]
+<a href="https://aula.capacitacionespya.cl"><img src="./moodle.pya.png" style="max-height: 60%; width:60%;"/></a>
 
-<a href="YOUR_PROJECT_3_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+Servicios de Capacitación PyA es una OTEC chilena que ofrece cursos y capacitaciones para trabajadores en diversas áreas. Actualmente estoy liderando la implementación de su plataforma de aprendizaje en línea basada en **Moodle LMS**, integrando funcionalidades SENCE y personalizando la experiencia de usuario para optimizar el proceso de aprendizaje.
 
-[![Project 3](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_3?label=YOUR_PROJECT_3_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_3)
+Referencia: [Capacitaciones PyA](mailto:soporteaula@capacitacionespya.cl)
 
-## [PROJECT 4 TITLE - e.g., "API Development"]
+Código: No disponible públicamente.
 
-<a href="YOUR_PROJECT_4_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+<!--## [PROJECT 3 TITLE - e.g., "Full Stack App"]-->
 
-[![Project 4](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_4?label=YOUR_PROJECT_4_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_4)
+<!-- <a href="YOUR_PROJECT_3_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a> -->
 
-## [PROJECT 5 TITLE - e.g., "Open Source Contribution"]
+<!-- [![Project 3](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_3?label=YOUR_PROJECT_3_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_3) -->
 
-<a href="YOUR_PROJECT_5_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+<!-- ## [PROJECT 4 TITLE - e.g., "API Development"] -->
 
-[![Project 5](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_5?label=YOUR_PROJECT_5_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_5)
+<!-- <a href="YOUR_PROJECT_4_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a> -->
 
-## [PROJECT 6 TITLE - e.g., "Learning Resources"]
+<!-- [![Project 4](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_4?label=YOUR_PROJECT_4_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_4) -->
 
-<a href="YOUR_PROJECT_6_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+<!-- ## [PROJECT 5 TITLE - e.g., "Open Source Contribution"] -->
 
-[![Project 6](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_6?label=YOUR_PROJECT_6_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_6)
+<!-- <a href="YOUR_PROJECT_5_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a> -->
 
-## [PROJECT 7 TITLE - Optional additional project]
+<!-- [![Project 5](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_5?label=YOUR_PROJECT_5_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_5) -->
 
-<a href="YOUR_PROJECT_7_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a>
+<!-- ## [PROJECT 6 TITLE - e.g., "Learning Resources"] -->
+<!-- <a href="YOUR_PROJECT_6_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a> -->
 
-[![Project 7](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_7?label=YOUR_PROJECT_7_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_7)
+<!-- [![Project 6](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_6?label=YOUR_PROJECT_6_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_6) -->
 
-## Algunos vídeos/trabajos destacados:
+<!-- ## [PROJECT 7 TITLE - Optional additional project] -->
+
+<!-- <a href="YOUR_PROJECT_7_LINK"><img src="https://picsum.photos/600/300" style="height: 60%; width:60%;"/></a> -->
+
+<!-- [![Project 7](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_7?label=YOUR_PROJECT_7_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_7) -->
+
+## Algunos repos destacados en Github
 
 <table style="width:100%">
 <tr>
