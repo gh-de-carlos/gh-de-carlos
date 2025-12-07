@@ -28,15 +28,15 @@ Me encanta conversar de cualquier tema, así que incluso si sólo quieres saluda
 <!--[![Twitch](https://img.shields.io/badge/Twitch-YOUR_USERNAME-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/YOUR_USERNAME)-->
 [![Discord](https://img.shields.io/badge/Discord-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/p5DBDHes)
 </br>
-<!--[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_USERNAME-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-@YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/YOUR_USERNAME)
-[![TikTok](https://img.shields.io/badge/TikTok-@YOUR_USERNAME-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@YOUR_USERNAME)
-[![Facebook](https://img.shields.io/badge/Facebook-@YOUR_USERNAME-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/YOUR_USERNAME)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_USERNAME-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/YOUR_USERNAME)-->
+<!--[![Instagram](https://img.shields.io/badge/Instagram-@YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/YOUR_USERNAME)-->
+<!--[![TikTok](https://img.shields.io/badge/TikTok-@YOUR_USERNAME-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@YOUR_USERNAME)-->
+<!--[![Facebook](https://img.shields.io/badge/Facebook-@YOUR_USERNAME-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/YOUR_USERNAME)-->
 </br>
-[![Link](https://img.shields.io/badge/Links-YOUR_LINK_SITE-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://YOUR_LINK_SITE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_NAME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Udemy](https://img.shields.io/badge/Udemy-YOUR_NAME-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/YOUR_COURSES)
-[![Web](https://img.shields.io/badge/Web-YOUR_WEBSITE.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://YOUR_WEBSITE.com)-->
+<!--[![Link](https://img.shields.io/badge/Links-YOUR_LINK_SITE-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://YOUR_LINK_SITE)-->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_NAME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/YOUR_LINKEDIN)-->
+<!--[![Udemy](https://img.shields.io/badge/Udemy-YOUR_NAME-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/YOUR_COURSES)-->
+<!--[![Web](https://img.shields.io/badge/Web-YOUR_WEBSITE.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://YOUR_WEBSITE.com)-->
 
 # [YOUR SPECIAL SECTION TITLE - Optional section for courses, services, or products]
 
