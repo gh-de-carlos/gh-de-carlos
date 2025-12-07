@@ -1,7 +1,8 @@
-# <img src="./main.png" width=300> Hola, soy Carlos! 👋
-### Full Stack Developer
+<h1 style="vertical-align=middle"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span><>
 
-![https://github.com/gh-de-carlos](https://picsum.photos/1200/400)
+## Full Stack Developer
+
+![header](./header.jpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social)](https://youtube.com/YOUR_CHANNEL?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/YOUR_USERNAME?style=social)](https://twitch.com/YOUR_USERNAME)
