@@ -1,4 +1,4 @@
-<h1 style="vertical-align=middle"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span></h1>
+<h1 style="display: grid; place-items: center;"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span></h1>
 
 ## Full Stack Developer
 
