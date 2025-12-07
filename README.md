@@ -1,4 +1,4 @@
-<p style="text-align: center"><img style="text-align:center" src="./main.png" width=300></p>
+<p style="text-align: center"><img src="./main.png" width=300></p>
 
 ## Full Stack Developer
 
