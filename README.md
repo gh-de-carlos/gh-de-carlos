@@ -1,13 +1,16 @@
-<h1 style="vertical-align=middle"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span><>
+<h1 style="vertical-align=middle"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span></h1>
 
 ## Full Stack Developer
 
+Loco por la tecnología en general, y el desarrollo de software en particular. Mis intereses básicamente tienen todo que ver con aquello que me rodea desde por qué las hormiguitas son tan fuertes, hasta por qué Netflix eligió la paleta de colores que tiene. Resumir mis intereses en pocas palabras no me resulta sencillo, asi que si quieres, conversemos!
+
 ![header](./header.jpg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social)](https://youtube.com/YOUR_CHANNEL?sub_confirmation=1)
+<!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social)](https://youtube.com/YOUR_CHANNEL?sub_confirmation=1)-->
 [![Twitch Status](https://img.shields.io/twitch/status/YOUR_USERNAME?style=social)](https://twitch.com/YOUR_USERNAME)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=social&label=Discord&logo=discord)](https://YOUR_DISCORD_LINK)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_USERNAME?style=social)](https://twitter.com/YOUR_USERNAME)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=social&label=Discord&logo=discord)](https://discord.com/users/450046483316867092)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/carlos-pizarro-morales/)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_USERNAME?style=social)](https://twitter.com/YOUR_USERNAME)-->
 ![GitHub Followers](https://img.shields.io/github/followers/gh-de-carlos?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/gh-de-carlos?style=social)
 
