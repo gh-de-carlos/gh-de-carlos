@@ -1,4 +1,4 @@
-<h1 style="display: grid; place-items: center;"><img src="./main.png" width=300><span style="display: inline"> Hola, soy Carlos!</span></h1>
+<img src="./main.png" width=300>
 
 ## Full Stack Developer
 
@@ -12,7 +12,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/gh-de-carlos?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/gh-de-carlos?style=social)
 
-Loco por la tecnología en general, y el desarrollo de software en particular. Mis intereses básicamente tienen todo que ver con aquello que me rodea desde por qué las hormiguitas son tan fuertes, hasta por qué Netflix eligió la paleta de colores que tiene. Resumir mis intereses en pocas palabras no me resulta sencillo, asi que si quieres, conversemos!
+Soy Carlos, loco por la tecnología en general, y el desarrollo de software en particular. Mis intereses básicamente tienen todo que ver con aquello que me rodea desde por qué las hormiguitas son tan fuertes, hasta por qué Netflix eligió la paleta de colores que tiene. Resumir mis intereses en pocas palabras no me resulta sencillo, asi que si quieres, conversemos!
 
 He trabajado en proyectos de desarrollo para distintas empresas tanto en el backend como el frontend, con tecnologías que van desde Java con Spring Boot hasta VueJS, y ahora me encuentro enfocado en la implementación de un LMS Moodle con full integración SENCE para una OTEC en crecimiento en Chile.
 
