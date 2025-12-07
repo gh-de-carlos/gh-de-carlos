@@ -1,5 +1,5 @@
-# ![https://picsum.photos/300/200](https://picsum.photos/300/200) Hola, mi nombre es [YOUR NAME] 👋
-### [YOUR PROFESSIONAL TITLE - e.g., Full Stack Developer, Software Engineer, etc.]
+# <img src="./main.png" width=300> Hola, soy Carlos! 👋
+### Full Stack Developer
 
 ![https://github.com/gh-de-carlos](https://picsum.photos/1200/400)
 
