@@ -2,29 +2,25 @@
 
 ## Full Stack Developer
 
-Loco por la tecnología en general, y el desarrollo de software en particular. Mis intereses básicamente tienen todo que ver con aquello que me rodea desde por qué las hormiguitas son tan fuertes, hasta por qué Netflix eligió la paleta de colores que tiene. Resumir mis intereses en pocas palabras no me resulta sencillo, asi que si quieres, conversemos!
-
 ![header](./header.jpg)
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social)](https://youtube.com/YOUR_CHANNEL?sub_confirmation=1)-->
 [![Twitch Status](https://img.shields.io/twitch/status/YOUR_USERNAME?style=social)](https://twitch.com/YOUR_USERNAME)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=social&label=Discord&logo=discord)](https://discord.com/users/450046483316867092)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=social&label=Discord&logo=discord)](https://discord.com/users/450046483316867092/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/carlos-pizarro-morales/)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_USERNAME?style=social)](https://twitter.com/YOUR_USERNAME)-->
 ![GitHub Followers](https://img.shields.io/github/followers/gh-de-carlos?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/gh-de-carlos?style=social)
 
-[YOUR PROFESSIONAL INTRODUCTION - Brief paragraph about your background and experience as a software developer]
+Loco por la tecnología en general, y el desarrollo de software en particular. Mis intereses básicamente tienen todo que ver con aquello que me rodea desde por qué las hormiguitas son tan fuertes, hasta por qué Netflix eligió la paleta de colores que tiene. Resumir mis intereses en pocas palabras no me resulta sencillo, asi que si quieres, conversemos!
 
-[YOUR PROFESSIONAL JOURNEY - Paragraph describing your career path, key achievements, and specializations]
+He trabajado en proyectos de desarrollo para distintas empresas tanto en el backend como el frontend, con tecnologías que van desde Java con Spring Boot hasta VueJS, y ahora me encuentro enfocado en la implementación de un LMS Moodle con full integración SENCE para una OTEC en crecimiento en Chile.
 
-[YOUR COMMUNITY & CONTENT - If applicable, describe your content creation, teaching activities, or community involvement. Otherwise, describe your open source contributions or professional philosophy]
+Mi foco es el trabajo con el ecosistema Javascript pero dispuesto a aprender y adaptarme a cualquier desafío que suponga una experiencia humana enriquecedora, por el equipo, los clientes, o el proyecto en sí.
 
-> 👥 [YOUR ACHIEVEMENTS/RECOGNITIONS - e.g., "Open Source Contributor", "Tech Speaker", etc.]
->
-> ⭐️ [YOUR ADDITIONAL ACHIEVEMENTS]
+Me encanta conversar de cualquier tema, así que incluso si sólo quieres saludar y conocerme, no dudes en contactarme!
 
-## Encuéntrame en:
+## Encuéntrame en
 
 [![YouTube](https://img.shields.io/badge/YouTube-YOUR_CHANNEL_NAME-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@YOUR_CHANNEL)
 [![YouTube](https://img.shields.io/badge/YouTube-YOUR_SECONDARY_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@YOUR_SECONDARY_CHANNEL)
