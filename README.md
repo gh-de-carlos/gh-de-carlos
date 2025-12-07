@@ -1,4 +1,4 @@
-<img src="./main.png" width=300>
+<center><img src="./main.png" width=300></center>
 
 ## Full Stack Developer
 
