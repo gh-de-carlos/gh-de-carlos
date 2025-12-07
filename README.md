@@ -98,66 +98,68 @@ Código: No disponible públicamente.
 
 <!-- [![Project 7](https://img.shields.io/github/stars/gh-de-carlos/YOUR_REPO_7?label=YOUR_PROJECT_7_LABEL&style=social)](https://github.com/gh-de-carlos/YOUR_REPO_7) -->
 
-## Algunos repos destacados en Github
+## Algunos repos en Github
 
 <table style="width:100%">
 <tr>
 <td>
-<a href="YOUR_VIDEO_1_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/galeria-imagenes-fullstack25-m2ae6solo">
+<img src="./github_1.png">
 </a>
+<span>Galería de imágenes integrando plugin jQuery</span>
 </td>
 <td>
-<a href="YOUR_VIDEO_2_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/portafolio.evaluacion.m2">
+<img src="./github_2.png">
 </a>
+<span>Primer intento de portafolio. Aún en progreso.</span>
 </td>
 <td>
-<a href="YOUR_VIDEO_3_LINK">
-<img src="https://picsum.photos/400/225">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="YOUR_VIDEO_4_LINK">
-<img src="https://picsum.photos/400/225">
-</a>
-</td>
-<td>
-<a href="YOUR_VIDEO_5_LINK">
-<img src="https://picsum.photos/400/225">
-</a>
-</td>
-<td>
-<a href="YOUR_VIDEO_6_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/securenet.evaluacion.m2">
+<img src="./github_3.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="YOUR_VIDEO_7_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/todo.list-evalua.portafolio.m3">
+<img src="./github_4.png">
 </a>
 </td>
 <td>
-<a href="YOUR_VIDEO_8_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/social.like-m4.3">
+<img src="./github_5.png">
 </a>
 </td>
 <td>
-<a href="YOUR_VIDEO_9_LINK">
-<img src="https://picsum.photos/400/225">
+<a href="https://github.com/gh-de-carlos/api.buscador.libros-m4.5">
+<img src="./github_6.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/gh-de-carlos/m4.evaluacion.modulo">
+<img src="./github_7.png">
+</a>
+</td>
+<td>
+<a href="https://github.com/gh-de-carlos/m5.evaluacion.modulo">
+<img src="./github_8.svg">
+</a>
+</td>
+<td>
+<a href="https://github.com/gh-de-carlos/m9.evaluacion.modulo.portafolio">
+<img src="./github_9.png">
 </a>
 </td>
 </tr>
 </table>
 
-## Contacto y apoyo:
+<!-- ## Contacto y apoyo: -->
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-YOUR_CONTACT_METHOD-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://YOUR_PUBLIC_INBOX_LINK)
+<!-- [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-YOUR_CONTACT_METHOD-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://YOUR_PUBLIC_INBOX_LINK) -->
 </br>
-[![Email](https://img.shields.io/badge/YOUR_EMAIL-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:YOUR_EMAIL)
+<!-- [![Email](https://img.shields.io/badge/YOUR_EMAIL-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:YOUR_EMAIL) -->
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/YOUR_USERNAME)
+<!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/YOUR_USERNAME) -->
